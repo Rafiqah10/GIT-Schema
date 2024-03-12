@@ -1,0 +1,2 @@
+GIT adalah perangkat lunak pengendali versi atau proyek manajemen kode perangkat lunak. Git diciptakan oleh Linus Trovalds untuk kerenel linux. Awalnya, Git dirancang sebagai mesin tingkat rendah. Namun, proyek inti Git berkembang menjadi pengendali revisi tingkat lengkap.
+Saat ini, beberapa perangkat lunak terkenal menggunakan Git sebagai pengendali revisinya. Pemeliharaan perangkat lunak Git diawasi oleh Junio Hamano. Dirilis di bawah lisensi publik umum GNU.  Hamano bertanggung jawab atas rilis 1.0 dan terus menjadi pemelihara utama proyek. 
