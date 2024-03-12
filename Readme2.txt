@@ -1,0 +1,2 @@
+Studi Independen (SI) adalah program yang memberikan kesempatab kepada mahasiswa untuk mempelajari kompetensi spesifik. Studi Indpenden merupakan salah satu program dari Kampus Merdeka Kemendikbud. Studi Independen memberikan praktis langsung dari prakarnya selama 1 semester. Studi Independen menjadi salah satu pilihan mahasiswa untuk memperoleh soft skill.
+Studi Independen mempunyai beberapa mitra yang tergabung di dalamnya. Salah satunya yang saya ikuti adalah MIKTI. Di MIKTI, saya mengambil bagian Data Analyst. Program dilaksanakan dengan sistem mentoring. 
